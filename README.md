@@ -7,7 +7,7 @@ Training and evaluation is done using fastai_scans (https://github.com/renato145
 
 1.) Create a new conda environment, install Python 3.6 and activate it
 ```
-conda create -n fastba python=3.6; conda activate fastba
+conda create -n wwuki_brainage python=3.6; conda activate wwuki_brainage
 ```
 2.) Install pip inside the environment
 ```
@@ -15,7 +15,7 @@ conda install pip
 ```
 3.) Install the package inside this conda environment using pip (replace USER with your username and CONDA_DIR with .conda for Anaconda or miniconda for miniconda)
 ```
-/home/USER/CONDA_DIR/envs/fastba/bin/pip install git+git://github.com/codingfisch/wwu-ki_brainage.git
+/home/USER/CONDA_DIR/envs/wwuki_brainage/bin/pip install git+git://github.com/codingfisch/wwu-ki_brainage.git
 ```
 4.) Install the bcolz package using conda
 ```
