@@ -6,7 +6,7 @@ setup(name='wwu-ki_brainage',
       url="",
       author="Lukas Fisch",
       packages=find_packages(),
-      install_requires=["fastai_scans @ git+git://github.com/renato145/fastai_scans.git#egg=fastai_scans",
+      install_requires=["fastai_scans @ git+git://github.com/codingfisch/fastai_scans.git#egg=fastai_scans",
                         "tqdm",
                         ],
       )

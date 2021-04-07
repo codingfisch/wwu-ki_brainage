@@ -22,7 +22,6 @@ conda install pip
 conda install -c anaconda bcolz
 ```
 
-```
 Optional (if you have a RTX 30 series graphics card): Reinstall newest Pytorch + Cudatoolkit 
 ```
 conda install pytorch torchvision torchaudio cudatoolkit -c pytorch
